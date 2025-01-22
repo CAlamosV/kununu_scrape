@@ -1,0 +1,27 @@
+# Define a dictionary to hold all CSS class names
+# This may need to be updated if the website changes
+CSS_CLASSES = {
+    "overall_score": ".index__score__BktQY",
+    "title": "h3.index__title__xakS9.h3-semibold",
+    "date": "time[datetime]",
+    "recommendation_block": ".index__recommendationBlock__2zhEJ",
+    "employment_info": ".index__employmentInfoBlock__wuOtj",
+    "factor": ".index__factor__Mo6xW",
+    "factor_title": ".index__title__Rq0Po",
+    "factor_text": ".index__plainText__JgbHE",
+    "review_block": ".index__reviewBlock__I8pdb",
+    "firm_name": "index__title__0q4vx h3-semibold",
+    "percent_recommend": "index__value__o0UJI h2 h3-semibold-tablet",
+    "overall_rating": "index__value__ApL+4 h2 h3-semibold-tablet",
+    "tabs": "index__tabs__lGVpv",
+    "factor_score": "^index__factorScore",
+    "total_reviews": "index__totalReviews__aUzS6 p-small-semibold",
+    "aggregation": "index__aggregation__NhXCC index__center__K0n3a",
+    "employee_score": "h3-semibold index__score__BktQY",
+    "employee_recommendation": "index__recommendation__LS0nx",
+    "benefits": "index__benefitsContent__7VqX6",
+    "benefit_items": "index__benefitItem__R7P9I",
+    "benefit_title": "index__benefitTitle__zmARM",
+    "benefit_percentage": "index__benefitPercentage__Z1tVV",
+    "satisfied_salary": "index__rate__N7w1O",
+}
